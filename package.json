@@ -2,6 +2,7 @@
   "name": "mintscript",
   "displayName": "MintScript",
   "description": "Support for MintScript",
+  "publisher": "mintscript",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.78.0"
@@ -21,5 +22,6 @@
       "scopeName": "source.mint",
       "path": "./syntaxes/mintscript.tmLanguage.json"
     }]
-  }
+  },
+  "repository": "https://github.com/darilrt/mintscript-vscode.git"
 }
